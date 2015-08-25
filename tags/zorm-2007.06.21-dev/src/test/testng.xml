@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite
+    name="zorm"
+    verbose="1">
+    <test name="main-tests">
+        <packages>
+            <package name="com.mihaila.zormtest.*" />
+        </packages>
+        <classes>
+        </classes>
+    </test>
+</suite>
